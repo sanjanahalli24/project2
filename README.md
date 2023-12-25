@@ -1,3 +1,3 @@
 # New Project
 This is a Project created from local system.
-Creatd by Sanjana
+Created by Sanjana
